@@ -21,7 +21,7 @@ const generarUsuario = async() => {
     console.log(datos);
     nombre.textContent = datos.name.first;
     apellido.textContent = datos.name.last;
-    foto.src = datos.picture.medium;
+    foto.src = datos.picture.large;
     correo.textContent = datos.email;
     telefono.textContent = datos.cell;
     fchnacimiento.textContent = datos.dob.date;

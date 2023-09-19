@@ -40,7 +40,7 @@ h1 {
     width: 100%;
     max-width: 1200px;
     margin: 30px;
-    margin-top: 50px;
+    margin-top: 30px;
     background-color: rgb(255, 255, 255);
     text-align: center;
     padding: 20px;
@@ -84,7 +84,7 @@ p span {
 
 img {
     border-radius: 50%;
-    width: 100px;
+    width: 200px;
 }
 
 .experiencia{
